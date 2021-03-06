@@ -1,2 +1,2 @@
 # Demo.AssemblyInfo
-Show the meta data about an assembly.
+Demo application showing how to access various meta data from assemblies

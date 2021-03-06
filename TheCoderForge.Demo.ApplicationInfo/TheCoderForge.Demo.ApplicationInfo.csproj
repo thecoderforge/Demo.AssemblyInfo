@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Authors>John-Paul Smith</Authors>
+    <Company>thecoderforge.com</Company>
+    <Product>Application Info Demo</Product>
+    <Description>Demo application showing how to access various meta data from assemblies. - DESC</Description>
+    <Version>0.1.0</Version>
+    <PackageId>TheCoderForge.Demo.ApplicationInfo</PackageId>
+    <AssemblyName>TheCoderForge.Demo.ApplicationInfo</AssemblyName>
+  </PropertyGroup>
+
+</Project>
